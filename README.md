@@ -1,2 +1,3 @@
 # grit
-reed on
+read on
+sec on
